@@ -1,0 +1,16 @@
+*
+/**
+!.gitignore
+
+!servers.dat
+
+!kubejs/
+!kubejs/**
+!resourcepacks/
+!resourcepacks/**
+!mods/
+!mods/**
+!shadoerpacks/
+!shadoerpacks/**
+!datapacks/
+!datapacks/**
