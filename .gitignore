@@ -2,8 +2,6 @@
 /**
 !.gitignore
 
-!servers.dat
-
 !kubejs/
 !kubejs/**
 !resourcepacks/
